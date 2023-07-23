@@ -1,0 +1,23 @@
+body{
+    padding-top: 80px;
+}
+.form{
+    width: 100%;
+    padding: 30px 10vw;
+}
+.form input{
+    background-color: whitesmoke;
+    color: green;
+    margin: 10px 0;
+}
+
+.three-input-container{
+    display: flex;
+    gap: 20px;
+     
+}
+
+.cart-section{
+    margin-top: 0;
+
+}
